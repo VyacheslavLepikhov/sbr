@@ -1,6 +1,5 @@
-[{"instock":true,"price":150,"name":"беляш"},
-{"instock":true,"price":50,"name":"пирожок с мясом"},
+[{"instock":true,"price":50,"name":"пирожок с мясом"},
 {"instock":true,"price":35,"name":"пирожок с капустой"},
 {"instock":true,"price":77,"name":"пирожок с картошкой"},
-{"instock":true,"price":80,"name":"хачапури"},
-{"instock":false,"price":300,"name":"кальцоне"}]
+{"instock":true,"price":300,"name":"кальцоне"},
+{"instock":true,"price":80,"name":"хачапури"}]
