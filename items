@@ -4,4 +4,5 @@
 {"instock":true,"price":77,"name":"пирожок с картошкой"},
 {"instock":false,"price":300,"name":"кальцоне"},
 {"instock":true,"price":80,"name":"хачапури"}
+
 ]
